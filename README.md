@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Afina -- a designer and web developer-in-training.
+- 👋 Hi, I’m Afina -- a software engineering student (and former designer).
 - 🌳 I'm based in Seattle, WA.
 - 👀 I’m interested in fashion, health, personal finance, and social justice.
-- 🌱 I’m currently learning front-end web development, specifically JavaScript and ES6.
-- 💞️ I’m looking to work on the front-end of website projects and apps.
+- 🌱 I’m currently learning full-stack web development at Ada Developer's Academy in Seattle.
+- 💞️ I’m looking to work on the front-end / UI development of website projects and apps.
